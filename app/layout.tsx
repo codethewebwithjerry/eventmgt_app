@@ -11,7 +11,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'TicketKanta',
+  title: 'TicketKanta | where the party begins',
   description: 'Where the party begins.',
   icons: {
     icon: '/assets/images/logo.svg'
